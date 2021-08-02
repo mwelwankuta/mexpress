@@ -6,7 +6,7 @@ data = json.load(p)[0]
 def route_response(router = None, request_body = None):
     # get route method
     is_method_post = request_body != None 
-    is_method_get = request_body == None or route == None
+    is_method_get = request_body == None or router == None
 
     posts = data['posts']
     users = data['users']
