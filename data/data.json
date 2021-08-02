@@ -1,0 +1,28 @@
+[
+  {
+    "posts": [
+      {
+        "title": "i can swim",
+        "author": "john_doe"
+      },
+      {
+        "title": "i made a server",
+        "author": "mike_smith"
+      }
+    ],
+    "users": [
+      {
+        "username": "mike_smith",
+        "password": "4dsa55d03"
+      },
+      {
+        "username": "john_doe",
+        "password": "4dsa14d03"
+      },
+      {
+        "username": "katherine_henry",
+        "password": "52191"
+      }
+    ]
+  }
+]
