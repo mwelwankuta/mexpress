@@ -126,7 +126,7 @@ full code in `routes.py`
 ## Why i made this
 
 1. I had no existing python code on my github
-1. I always wanted to upload python code to my [GitHub Account]('https://github.com/mwelwankuta')
+1. I always wanted to upload python code to my [GitHub Account](https://github.com/mwelwankuta)
 
 ## Contact
-- Twitter [@Merlee4t]('https://twitter.com/Merlee4t')
+- Twitter [@Merlee4t](https://twitter.com/Merlee4t)
