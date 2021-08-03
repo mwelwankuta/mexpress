@@ -1,13 +1,6 @@
 <h1 align="center">MExpress 🔥</h1>
 <h3 align="center" style="font-weight:bold;">a mock python server with post and get requests</h3>
 
-## Building MExpress
-
-no third party libraries used
-
-- **Language Used**: Python
-- **Duration**: 5 hour
-
 ## File Structure
 | File           | Description                   |
 |----------------|-------------------------------|
@@ -57,7 +50,7 @@ no third party libraries used
  here is a sample of how to create an endpoint
 
 ## Get Endpoint
-  each requests is represented by an if statement for example
+  each route is represented by an if statement for example
 
   ```py
     if router.split('?')[0] == '/':
@@ -65,7 +58,7 @@ no third party libraries used
 
 ## Get Endpoint Example
 
-full code in `main.py`
+full code in [main.py](main.py)
 
 ```py
    if router.split('?')[0] == '/':
@@ -87,7 +80,7 @@ full code in `main.py`
   ```
 
 ## Post Endpoint Example
-full code in `routes.py`
+full code in [routes.py](routes.py)
 
 ```py
     if (router.split('?')[0] == '/login'):
